@@ -1,7 +1,7 @@
 ---
 title: Android数据加密相关
 date: 2017-02-28 18:18:39
-tags: Android
+tags: [Android,Java]
 ---
 最近在看HTTPS,其核心还是基与Rsa的SSL/TSL加密,所以整理一下在Android开发中常见的几种加密方式
 * MD5

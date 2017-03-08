@@ -1,7 +1,7 @@
 ---
-title: androidstudio快捷键整理
+title: AndroidStudio快捷键整理
 date: 2017-02-27 14:05:54
-tags: androidstudio
+tags: AndroidStudio
 ---
 因为工作需要,在Windows,Mac,Linux三个不同的环境下使用Studio.最蛋疼的就是环境变量和配置和快捷键的配置不同.
 网上很多关于Studio快捷键的文章,通常都是使用默认的快捷键.不同平台的默认键是不同的.如果像我这样蛋疼的有不同的平台环境,还是得统一快键配置.当然有钱人最好是使用MAC环境.

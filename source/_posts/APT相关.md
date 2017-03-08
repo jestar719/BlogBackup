@@ -1,7 +1,7 @@
 ---
 title: APT相关
 date: 2017-03-07 14:32:53
-tags: Android,Java
+tags: [Android,Java]
 ---
 APT注解编译工具`Annotation Compile Tool`,用来在编译时根据注解自动生成Java代码.
 像`ButterKnife`,`EventBus`等库都为了避免因为反射带来的性能损失,都使用了APT注解方式.
