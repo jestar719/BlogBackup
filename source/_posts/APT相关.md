@@ -35,7 +35,7 @@ dependencies {
 apply plugin : `android-apt`
 ```
 
-3. 在项目的依赖中添加库的依赖.核心包和Compiler包.
+3. 在Module的依赖中添加库的依赖.核心包和Compiler包.
 ```java
 dependencies {
   compile fileTree(include: ['*.jar'], dir: 'libs')       
