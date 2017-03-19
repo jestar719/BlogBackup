@@ -44,7 +44,7 @@ tags: AndroidStudio
 
 ## 查看
 ### 搜索
-* 全局搜索 Search everywhere 双击SHIFT
+* 全局搜索 Search everywhere 双击SHIFT 建议修改
 * 指令搜索 Search Ation 默认CTRL/CMD+SHIFT+A
 * 当前文件内搜索 Find 默认CTRL+F
 * 全局搜索 Find in Path 默认CTRL+SHIFT+F
